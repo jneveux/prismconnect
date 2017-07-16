@@ -1,0 +1,6 @@
+/node_modules
+/dist
+npm-debug.log
+# System Files
+.DS_Store
+Thumbs.db
